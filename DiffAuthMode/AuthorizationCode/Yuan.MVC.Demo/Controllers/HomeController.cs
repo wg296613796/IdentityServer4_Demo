@@ -17,7 +17,7 @@ using Yuan.MVC.Demo.Models;
 
 namespace Yuan.MVC.Demo.Controllers
 {
-   
+
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;

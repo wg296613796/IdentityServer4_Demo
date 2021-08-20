@@ -50,7 +50,6 @@ namespace Yuan.MVC.Demo
                   options.Scope.Add("code_scope1"); //添加授权资源
                   options.SaveTokens = true;
                   options.GetClaimsFromUserInfoEndpoint = true;
-
               });
 
             #endregion
